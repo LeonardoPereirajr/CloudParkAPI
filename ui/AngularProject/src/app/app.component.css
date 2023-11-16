@@ -1,0 +1,11 @@
+.center-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.bg-primary {
+  padding-top: 20px;
+}
+.main-container {
+  background-color: #c3d2e1;
+}
